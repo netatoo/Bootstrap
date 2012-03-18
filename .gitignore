@@ -32,3 +32,5 @@ nbproject
 .svn
 .CVS
 .idea
+docs/base-css.html
+docs/components.html
